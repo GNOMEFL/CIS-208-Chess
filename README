@@ -7,6 +7,6 @@ adding procedure:
 	<edit FILENAME>
 	git add FILENAME
 	git commit -m "message"
-	git remote add git@github.com:USERNAME/PROJECT.git
+	git remote add master git@github.com:USERNAME/PROJECT.git
 	git push master
 change FILENAME, USERNAME, and PROJECT as needed
