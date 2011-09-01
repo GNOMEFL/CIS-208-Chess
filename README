@@ -3,3 +3,10 @@ This is where we/I will be storing files for the project.
 Even if you cant figure out git, you can still download a copy of the project using the controls to download the project as a zip file, but you won't be able to upload changes all on your own
 
 
+adding procedure:
+	<edit FILENAME>
+	git add FILENAME
+	git commit -m "message"
+	git remote add origin git@github.com:USERNAME/PROJECT.git
+	git push origin master
+change FILENAME, USERNAME, and PROJECT as needed
